@@ -1,0 +1,2 @@
+// showMessage = function(){};
+showMessage("Cambiado...");    
